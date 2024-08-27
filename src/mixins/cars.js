@@ -213,6 +213,11 @@ export default {
           year: 2023,
           class: 'gt3',
         },
+        36: {
+          name: 'Ford Mustang',
+          year: 2024,
+          class: 'gt3',
+        },
         50: {
           name: 'Alpine A110 GT4',
           year: 2018,
